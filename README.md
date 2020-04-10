@@ -13,3 +13,6 @@ Link
 Classification using BERT
 - https://www.kaggle.com/anushakarthik1991/nlp-with-disaster-tweets-eda-cleaning-and-bert
 
+Multilabel
+- https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+
