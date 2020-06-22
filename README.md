@@ -31,4 +31,4 @@ Classification tasks such as sentiment analysis are done similarly to Next Sente
 
 **ROC-Star**
 
--https://github.com/iridiumblue/roc-star/blob/master/README.md
+- https://github.com/iridiumblue/roc-star/blob/master/README.md
