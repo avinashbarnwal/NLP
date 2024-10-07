@@ -11,3 +11,6 @@ Coursera Links
 
 ### [Jul-2024]
 - Eric's Interview - https://www.youtube.com/watch?v=DgpYiysQjeI
+
+### [OCT-2024]
+- https://hbr.org/2024/09/a-workaholics-guide-to-reclaiming-your-life?ab=HP-hero-for-you-text-1
