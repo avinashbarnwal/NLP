@@ -24,7 +24,7 @@
 - https://huggingface.co/facebook/Self-taught-evaluator-llama3.1-70B
 
 #### [OCT-2024]
-- https://medium.com/towards-data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
+- Understanding LLMs from scratch - https://medium.com/towards-data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
 
 ## Business
 
