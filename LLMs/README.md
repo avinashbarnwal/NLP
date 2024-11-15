@@ -26,6 +26,10 @@
 **LLM Metrics**
 - https://dagshub.com/blog/llm-evaluation-metrics/#what-are-llm-evaluation-metrics
 
+**RAG Implementation**
+- https://medium.com/towards-data-science/12-rag-pain-points-and-proposed-solutions-43709939a28c                
+  
+
 #### [NOV-2024]
 - Understanding LLMs from scratch - https://medium.com/towards-data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
 - Understanding Multimodal LLMs - https://magazine.sebastianraschka.com/p/understanding-multimodal-llms?publication_id=1174659&post_id=151078631&isFreemail=true&r=66gld&triedRedirect=true
