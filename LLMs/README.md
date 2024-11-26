@@ -28,7 +28,9 @@
 
 **RAG Implementation**
 - https://medium.com/towards-data-science/12-rag-pain-points-and-proposed-solutions-43709939a28c                
-  
+
+**LLMs as a Judge**
+- https://arxiv.org/abs/2411.15594v1
 
 #### [NOV-2024]
 - Understanding LLMs from scratch - https://medium.com/towards-data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
