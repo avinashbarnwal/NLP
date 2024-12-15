@@ -3,6 +3,9 @@
 
 **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**
 - https://arxiv.org/abs/2305.10601
+  
+**DataLab**     
+- https://arxiv.org/pdf/2412.02205
 
 
 **State of GPT by Andrej Karpathy**
