@@ -61,3 +61,6 @@ Coursera Links
 #### [OCT-2024]
 - https://hbr.org/2024/09/a-workaholics-guide-to-reclaiming-your-life?ab=HP-hero-for-you-text-1
 - https://hbr.org/2024/10/how-to-use-ai-to-build-your-companys-collective-intelligence?ab=HP-latest-text-4
+
+#### [DEC-2024]    
+- https://medium.com/predict/ai-is-hitting-a-hard-ceiling-it-cant-pass-851f4667d39b
