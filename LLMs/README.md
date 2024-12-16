@@ -42,6 +42,9 @@
 - Understanding LLMs from scratch - https://medium.com/towards-data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
 - Understanding Multimodal LLMs - https://magazine.sebastianraschka.com/p/understanding-multimodal-llms?publication_id=1174659&post_id=151078631&isFreemail=true&r=66gld&triedRedirect=true
 
+### [DEC-2024]
+- Scaling LLMs - https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training   
+
 ## Business
 
 ### Progress Timeline
